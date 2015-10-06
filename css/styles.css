@@ -1,3 +1,20 @@
 #hiss-showing {
   display: none;
 }
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: #7A005C;
+}
+
+h2 {
+  color: #7A005C;
+}
+
+.italic {
+  font-style: italic;
+}
